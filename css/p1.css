@@ -1,0 +1,47 @@
+/*
+  CSS file for p1.html
+*/
+
+body {
+    background-color: #EBFFEE;
+    font: 16px Arial, sans-serif;
+    color: #26665E;
+    text-align: center;
+    margin: auto;
+}
+
+#mini {
+    display: inline-block;
+    font-size: 12px;
+}
+
+img {
+    border-radius: 8px;
+    display: block;
+    margin: auto;
+    height: 350px;
+}
+
+h1 {
+    font: bold 32px;
+    color: #054D44;
+}
+
+h3 {
+    font: bold 20px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #80346B;
+}
+
+a:hover {
+    background-color: #CC90BC;
+    color: #4D3647;
+}
+
+a:visited {
+    color: #4D1F41;
+    font-style: italic;
+}
